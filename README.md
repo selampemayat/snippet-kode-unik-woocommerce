@@ -1,2 +1,5 @@
 # snippet-kode-unik-woocommerce
-Kode unik atau pembayaran woocommerce pada saat pembayaran
+
+
+Tutorial
+-Tambahkan file function.php pada function.php tema yang aktif.
